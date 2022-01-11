@@ -1,0 +1,10 @@
+{
+  "name": "kafkapubsubtest",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "ascoltatori": "https://github.com/flow-ai/ascoltatori.git",
+    "redis": "^4.0.1"
+  }
+}
